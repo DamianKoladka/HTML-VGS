@@ -1,0 +1,24 @@
+*{
+    background-color: brown;
+}
+
+h1{
+    color: blueviolet;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    background-color: black;
+    padding: 1em;
+    margin: 1em;
+}
+
+h2{
+    color: blue;
+    background-color: black;
+    padding: 10px 50px 30px 0px;
+    margin: 1em;
+}
+
+p{
+    color: aqua;
+}
