@@ -1,7 +1,7 @@
 /* selector */
-*{
+/*{
     background-color: darkblue;
-}
+}*/
 
 h1{
     color: blue;
@@ -22,6 +22,7 @@ p{
 
 #header{
     background-color: gray;
+    text-align: center;
 }
 
 #header .lenker{
@@ -29,7 +30,7 @@ p{
     
 }
 #header .lenker p a{
-    padding: 100px;
+    padding: 50px;
     color: whitesmoke;
     text-decoration: none;
     font-family: sans-serif;
