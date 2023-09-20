@@ -1,3 +1,4 @@
+/* selector */
 *{
     background-color: darkblue;
 }
@@ -9,6 +10,28 @@ h1{
 h2{
     color: lightblue;
 }
+
 p{
     color: white;
+}
+
+.bilder #a{
+    width: 100px;
+    height: 300px;
+}
+
+#header{
+    background-color: gray;
+}
+
+#header .lenker{
+    display: flex;
+    
+}
+#header .lenker p a{
+    padding: 100px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 500;
 }
