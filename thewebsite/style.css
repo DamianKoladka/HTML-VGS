@@ -16,13 +16,13 @@ p{
 }
 
 .bilder #a{
-    width: 100px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
 }
 
 #header{
     background-color: gray;
-    text-align: center;
+    text-align: right;
 }
 
 #header .lenker{
@@ -30,7 +30,7 @@ p{
     
 }
 #header .lenker p a{
-    padding: 50px;
+    padding: 100px;
     color: whitesmoke;
     text-decoration: none;
     font-family: sans-serif;
