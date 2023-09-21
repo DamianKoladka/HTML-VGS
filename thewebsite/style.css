@@ -22,17 +22,20 @@ p{
 
 #header{
     background-color: gray;
-    text-align: right;
+    
 }
 
 #header .lenker{
     display: flex;
+    justify-content: center;
     
-}
+} 
+
 #header .lenker p a{
-    padding: 100px;
+    padding: 10px;
     color: whitesmoke;
     text-decoration: none;
     font-family: sans-serif;
     font-weight: 500;
+    
 }
