@@ -1,5 +1,15 @@
+#myID1{
+    color:violet;
+}
+
+.myClass2{
+    color:blueviolet;
+    font-size: 36px;
+}
+
 #myID2{
     color:blue;
+    text-align: center;
 }
 
 .myClass3{
